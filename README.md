@@ -1,6 +1,10 @@
 ## Descrição
 
-Desafio Front End para o processo seletivo da Khipo. O app é em NextJS e retorna os dados de uma api.
+Desafio Front End para o processo seletivo da Khipo. O app é em NextJS e retorna os dados de uma api. 
+
+Print da aplicação funcionando:
+
+![Captura de tela de 2022-08-25 09-11-23](https://user-images.githubusercontent.com/24492328/186661011-ab0488b8-c616-4096-b2f6-5b5a3d87e766.png)
 
 ### Atenção!!!
 
